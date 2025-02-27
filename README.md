@@ -1,4 +1,4 @@
-# RouteX
+# RouteX (Path-Finder)
 ---
 This project is designed to find the shortest route between two districts within Haryana.. It is implemented in C++ using Dijkstra's algorithm to compute the shortest path. The underlying data structure used is a graph, where each district is represented as a node and the connection between two districts is an edge. 
 
